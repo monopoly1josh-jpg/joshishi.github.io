@@ -1,5 +1,5 @@
 :root {
-  --primary: #ac75db;
+  --primary: #fbe5ba;
   --bg: #ffffff;
   --text: #1a1a1a;
   --card: #f4f4f4;
@@ -309,8 +309,8 @@ footer {
 /* Light mode: subtle glow */
 body:not(.dark) .glow-text {
   text-shadow:
-    0 0 2px rgba(243, 203, 139, 0.5),
-    0 0 4px rgba(0, 0, 0, 0.3);
+    0 0 2px rgba(172, 117, 219, 0.5),
+    0 0 4px rgba(172, 117, 219, 0.3);
 }
 
 /* Dark mode: stronger glow */
